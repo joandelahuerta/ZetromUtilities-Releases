@@ -23,7 +23,7 @@
     "Author": "Zetrom; based on QuestShare by Era",
     "Name": "Zetrom Quest Share",
     "InternalName": "ZetromQuestShare",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Variante experimental de QuestShare. Usa secuencias reales de misión, selector de destinos cuando hay varios objetivos y marcado automático al cambiar de fase. /zquests abre la ventana. Basado en QuestShare de Era, AGPL-3.0-or-later.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -39,10 +39,10 @@
     "Punchline": "Comparte misiones con selección de destinos y marcado automático.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
-    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
-    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
-    "LastUpdate": 1791238363,
-    "Changelog": "Primera prueba: principal por defecto, marcado automático al cambiar de fase y selector de destinos múltiples."
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.1/ZetromQuestShare.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.1/ZetromQuestShare.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.1/ZetromQuestShare.zip",
+    "LastUpdate": 1791238896,
+    "Changelog": "Panel de misión compartida junto a la lista del juego, con nombre y objetivos de fase. Se adapta al texto y puede ocultarse desde /zquests."
   }
 ]
