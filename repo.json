@@ -16,5 +16,6 @@
   "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.36.0/ZetromUtilities.zip",
   "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.36.0/ZetromUtilities.zip",
   "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.36.0/ZetromUtilities.zip",
-  "LastUpdate": 1791231670
+  "LastUpdate": 1791231804,
+  "Changelog": "v0.36: añade Usar minimapa Zetrom (prueba) en Interfaz, zoom, seguimiento y esquina redimensionable."
 }]
