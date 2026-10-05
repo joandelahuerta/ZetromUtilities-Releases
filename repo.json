@@ -1,20 +1,48 @@
-[{
-  "Author": "Personal tools",
-  "Name": "Zetrom Utilities",
-  "InternalName": "AnimationNumber",
-  "AssemblyVersion": "0.42.0.0",
-  "Punchline": "Elige número, variante y reproduce la animación.",
-  "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 15,
-  "Tags": [
-    "animation",
-    "emote",
-    "penumbra"
-  ],
-  "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-  "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-  "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-  "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-  "LastUpdate": 1791233212
-}]
+[
+  {
+    "Author": "Personal tools",
+    "Name": "Zetrom Utilities",
+    "InternalName": "AnimationNumber",
+    "AssemblyVersion": "0.42.0.0",
+    "Punchline": "Elige número, variante y reproduce la animación.",
+    "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "animation",
+      "emote",
+      "penumbra"
+    ],
+    "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
+    "LastUpdate": 1791233212
+  },
+  {
+    "Author": "Zetrom; based on QuestShare by Era",
+    "Name": "Zetrom Quest Share",
+    "InternalName": "ZetromQuestShare",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Variante experimental de QuestShare. Usa secuencias reales de misión, selector de destinos cuando hay varios objetivos y marcado automático al cambiar de fase. /zquests abre la ventana. Basado en QuestShare de Era, AGPL-3.0-or-later.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "utility",
+      "questing",
+      "coop"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Comparte misiones con selección de destinos y marcado automático.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.0/ZetromQuestShare.zip",
+    "LastUpdate": 1791238363,
+    "Changelog": "Primera prueba: principal por defecto, marcado automático al cambiar de fase y selector de destinos múltiples."
+  }
+]
