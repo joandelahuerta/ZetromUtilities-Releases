@@ -3,7 +3,7 @@
     "Author": "Personal tools",
     "Name": "Zetrom Utilities",
     "InternalName": "AnimationNumber",
-    "AssemblyVersion": "0.20.0.0",
+    "AssemblyVersion": "0.21.0.0",
     "Punchline": "Elige número, variante y reproduce la animación.",
     "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
     "ApplicableVersion": "any",
@@ -13,10 +13,10 @@
       "emote",
       "penumbra"
     ],
-    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.20.0/ZetromUtilities.zip",
     "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-    "LastUpdate": 1791192121,
-    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.20.0/ZetromUtilities.zip",
-    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.20.0/ZetromUtilities.zip"
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.21.0/ZetromUtilities.zip",
+    "LastUpdate": 1791192867,
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.21.0/ZetromUtilities.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.21.0/ZetromUtilities.zip"
   }
 ]
