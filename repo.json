@@ -1,25 +1,5 @@
 [
   {
-    "Author": "Personal tools",
-    "Name": "Zetrom Utilities",
-    "InternalName": "AnimationNumber",
-    "AssemblyVersion": "0.42.0.0",
-    "Punchline": "Elige número, variante y reproduce la animación.",
-    "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "animation",
-      "emote",
-      "penumbra"
-    ],
-    "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.42.0/ZetromUtilities.zip",
-    "LastUpdate": 1791233212
-  },
-  {
     "Author": "Zetrom; based on QuestShare by Era",
     "Name": "Zetrom Quest Share",
     "InternalName": "ZetromQuestShare",
@@ -44,5 +24,25 @@
     "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/zetrom-quests-v0.1.2/ZetromQuestShare.zip",
     "LastUpdate": 1791239322,
     "Changelog": "Añade Mover cuadro y Fijar cuadro con posición guardada, restaurar anclaje desde /zquests, y Marcar destino con selector cuando hay varios destinos."
+  },
+  {
+    "Author": "Personal tools",
+    "Name": "Zetrom Utilities",
+    "InternalName": "AnimationNumber",
+    "AssemblyVersion": "0.43.0.0",
+    "Punchline": "Elige nÃºmero, variante y reproduce la animaciÃ³n.",
+    "Description": "Lee los nÃºmeros de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese nÃºmero; /animnum stop restaura los ajustes.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "animation",
+      "emote",
+      "penumbra"
+    ],
+    "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.43.0/ZetromUtilities.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.43.0/ZetromUtilities.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.43.0/ZetromUtilities.zip",
+    "LastUpdate": 1791246953
   }
 ]
