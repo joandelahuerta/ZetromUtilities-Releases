@@ -29,9 +29,9 @@
     "Author": "Personal tools",
     "Name": "Zetrom Utilities",
     "InternalName": "AnimationNumber",
-    "AssemblyVersion": "0.51.0.0",
-    "Punchline": "Elige nÃºmero, variante y reproduce la animaciÃ³n.",
-    "Description": "Lee los nÃºmeros de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese nÃºmero; /animnum stop restaura los ajustes.",
+    "AssemblyVersion": "0.52.0.0",
+    "Punchline": "Utilidades para cada ocasión: mapa, animaciones, trajes y misiones.",
+    "Description": "Mapa con aplicaciones, animaciones de Penumbra, emotes del juego, trajes de Glamourer, traducción con ChatTranslated y Quest Share integrado. Abre con /zetrom. Para compartir misiones abre Misiones o la aplicación Zetrom Quest Share del mapa.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -40,9 +40,9 @@
       "penumbra"
     ],
     "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.51.0/ZetromUtilities.zip",
-    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.51.0/ZetromUtilities.zip",
-    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.51.0/ZetromUtilities.zip",
-    "LastUpdate": 1791249891
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.52.0/ZetromUtilities.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.52.0/ZetromUtilities.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.52.0/ZetromUtilities.zip",
+    "LastUpdate": 1791250353
   }
 ]
