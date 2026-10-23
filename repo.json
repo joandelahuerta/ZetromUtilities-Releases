@@ -29,7 +29,7 @@
     "Author": "Personal tools",
     "Name": "Zetrom Utilities",
     "InternalName": "AnimationNumber",
-    "AssemblyVersion": "0.171.0.0",
+    "AssemblyVersion": "0.172.0.0",
     "Punchline": "Utilidades para cada ocasión: mapa, animaciones, trajes y misiones.",
     "Description": "Mapa con aplicaciones, animaciones de Penumbra, emotes del juego con Bypass Emote automático si te falta uno, trajes de Glamourer, traducción con ChatTranslated y Quest Share integrado. Bypass Emote debe estar instalado y activo. Abre con /zetrom. Para compartir misiones abre Misiones o la aplicación Zetrom Quest Share del mapa.",
     "ApplicableVersion": "any",
@@ -40,9 +40,9 @@
       "penumbra"
     ],
     "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.171.0/ZetromUtilities.zip",
-    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.171.0/ZetromUtilities.zip",
-    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.171.0/ZetromUtilities.zip",
-    "LastUpdate": 1792747303
+    "DownloadLinkInstall": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.172.0/ZetromUtilities.zip",
+    "DownloadLinkUpdate": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.172.0/ZetromUtilities.zip",
+    "DownloadLinkTesting": "https://github.com/joandelahuerta/ZetromUtilities-Releases/releases/download/v0.172.0/ZetromUtilities.zip",
+    "LastUpdate": 1792772341
   }
 ]
